@@ -1,0 +1,9 @@
+// IMPORTANT NOTES FOR HARDHAT TESTING
+
+// INSTALLATION
+npm install --save-dev hardhat
+
+// PACKAGE
+@nomicfoundation/hardhat-toolbox
+
+// 
